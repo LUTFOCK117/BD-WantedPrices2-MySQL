@@ -19,5 +19,5 @@ pueden ir desde:
 lo unico que me falto fue crear una aplicacion que se conectara directamente a la BD, para poder realizar 
 ahi las modificaciones que fueran requeridas, como tambien llevar el control del negocio
 
-este proyecto tenia la finalidad de ser aplicada en la ciudad universitaria (UANL), pero por motivos
+este proyecto tenia la finalidad de ser aplicada en la ciudad universitaria (UANL) con los puestos y cafeterias que estaban dentro de esta, pero por motivos
 fuera de nuestro alcance no se logro el cometido.
