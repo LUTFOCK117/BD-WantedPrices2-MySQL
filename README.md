@@ -16,9 +16,6 @@ pueden ir desde:
 
 -etc.
 
-![image](https://github.com/user-attachments/assets/32c34195-06be-406c-9680-b39bae5c266e)
-
-
 lo unico que me falto fue crear una aplicacion que se conectara directamente a la BD, para poder realizar 
 ahi las modificaciones que fueran requeridas, como tambien llevar el control del negocio
 
