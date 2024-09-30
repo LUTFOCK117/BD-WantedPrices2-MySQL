@@ -5,6 +5,7 @@ dentro de la BD se pueden realizar modificaciones a placer, siempre y cuando sea
 del negocio.
 
 pueden ir desde:
+
 -modificar los precios de los productos.
 
 -eliminar los productos que ya no esten en existencia en el stock
